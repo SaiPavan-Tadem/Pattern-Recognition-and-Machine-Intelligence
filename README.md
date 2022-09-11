@@ -15,7 +15,7 @@ It includes image rotation,flipping and addtion of gaussian noise.The data set s
 **Gamma Contrast Enhancement:** It is is a nonlinear operation used to encode and decode luminance or tristimulus values in video or still image systems. Mathematically explined by the following formula.
 **Gaussian Contrast Enhancement:** Its a Non-linear transformation function to enhance brightness and contrast.
 **Brightness enhancement** It is a linear trasnformation which adjust the brightness of the image based on the given gain value,after that the image also undergoes thresholding operation.
-![Alt Text](https://github.com/SaiPavan-Tadem/Pattern-Recognition-and-Machine-Intelligence/blob/main/Images/Screenshot from 2022-09-11 23-56-37.png)
+![Alt Text](https://github.com/SaiPavan-Tadem/Pattern-Recognition-and-Machine-Intelligence/blob/main/Images/Screenshot%20from%202022-09-11%2023-56-37.png)
 ## Model and Hyperparameters:
 
 ![Alt Text](https://github.com/SaiPavan-Tadem/Pattern-Recognition-and-Machine-Intelligence/blob/main/Images/vgg16.png)
